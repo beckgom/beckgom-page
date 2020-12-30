@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Young Han Lee
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Principal Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Korea Electronics Technology Institute
+  url: https://www.keti.re.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI for Speech/Audio, Lightweight Deep Learning, distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Speech Recognition / Text-To-Speech
+- Binary Neural Network
+- High Speech Inference
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Eng. of Information & Communication
+    institution: Gwangju Institute of Science & Technology
+    year: 2011
+  - course: MS in Eng. of Information & Communication
+    institution: Gwangju Institute of Science & Technology
+    year: 2007
+  - course: BS in Eng. of Electronics
+    institution: Kwangwoon University
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/beckgom
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+음성 관련해서 전공했지만, 회사를 거치면서 별의 별 일을 다 해보게 됨. 음성을 한 덕분에 딥러닝 기술을 초기에 접하게 되면 지금까지 잘 활용하면서 업무를 수행하고 있음. 전자과 출신이지만 프로그래밍을 잘하는 사람을 동경하고, 지속적으로 관련된 내용들을 찾아보는 편..(그래봐야 전자과...) 인공지능과 관련한 신기술들에 관심이 많고 많이 찾아보는 편임. 성능을 끝까지 올리는 기술들보다는 적용 가능한 기술에 대해 관심이 많고 재미를 느끼고 있음.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
