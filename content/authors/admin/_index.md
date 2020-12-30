@@ -18,7 +18,8 @@ bio: My research interests include AI for Speech/Audio, Lightweight Deep Learnin
 
 # Interests to show in About widget
 interests:
-- Speech Recognition / Text-To-Speech
+- Text-To-Speech
+- Speech Recognition
 - Binary Neural Network
 - High Speech Inference
 
