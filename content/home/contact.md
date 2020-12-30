@@ -21,7 +21,6 @@ content:
     provider: formspree
     formspree:
       id:moqlqvrz
-      captcha: true
   
 design:
   columns: '2'
