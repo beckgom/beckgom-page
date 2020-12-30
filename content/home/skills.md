@@ -17,23 +17,23 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 85%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
 - description: 85%
-  icon: fa-copyright
+  icon: copyright
   icon_pack: fab
   name: C/C++
 - description: 90%
-  icon: fa-volume-up
+  icon: volume-up
   icon_pack: fas
   name: Speech/Audio Background
 - description: 85%
-  icon: fa-feather-alt
+  icon: feather-alt
   icon_pack: fas
   name: Lightweight Inference
 - description: 85%
-  icon: fa-fire
+  icon: fire
   icon_pack: fas
   name: Pytorch
 
