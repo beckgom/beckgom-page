@@ -69,8 +69,8 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 음성 관련해서 전공했지만, 회사를 거치면서 별의 별 일을 다 해보게 됨. 음성을 한 덕분에 딥러닝 기술을 초기에 접하게 되면 지금까지 잘 활용하면서 업무를 수행하고 있음. 전자과 출신이지만 프로그래밍을 잘하는 사람을 동경하고, 지속적으로 관련된 내용들을 찾아보는 편..(그래봐야 전자과...) 인공지능과 관련한 신기술들에 관심이 많고 많이 찾아보는 편임. 성능을 끝까지 올리는 기술들보다는 적용 가능한 기술에 대해 관심이 많고 재미를 느끼고 있음.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
