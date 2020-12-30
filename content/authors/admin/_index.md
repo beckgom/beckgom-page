@@ -14,7 +14,7 @@ organizations:
   url: https://www.keti.re.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI for Speech/Audio, Lightweight Deep Learning, distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI for Speech/Audio, Lightweight Deep Learning.
 
 # Interests to show in About widget
 interests:
