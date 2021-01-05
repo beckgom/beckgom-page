@@ -8,7 +8,7 @@ tags:
 date: "2021-01-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://hangulize.z12.web.core.windows.net/"
+external_link: ""
 
 image:
   caption: 웹페이지 캡쳐
@@ -40,5 +40,5 @@ slides: example
 
 앞으로 페이지에 엔진 version을 표기할 수 있도록 하는 것도 필요하겠다 싶기는 함.
 
-feel free to visit the website
+feel free to visit the [website](https://hangulize.z12.web.core.windows.net/)
 
